@@ -39,6 +39,12 @@
 └─ автоматизация
 ```
 
+## // СТАТИСТИКА
+
+<p align="center">
+  <img src="./assets/stats.svg" alt="Статистика GitHub YSimatov" width="100%" />
+</p>
+
 ## // ПРОЕКТЫ
 
 ### Публичные
@@ -60,12 +66,6 @@
 > Python-сервис для асинхронного сбора и анализа market/order-book данных с контролем concurrency и тестовым покрытием.
 
 `Дальше больше...`
-
-## // СТАТИСТИКА
-
-<p align="center">
-  <img src="./assets/stats.svg" alt="Статистика GitHub YSimatov" width="100%" />
-</p>
 
 ## // 3D-КАРТА АКТИВНОСТИ
 
