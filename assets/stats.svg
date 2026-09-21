@@ -17,13 +17,13 @@
 <path d="M42 57H1158" stroke="#7C3AED" stroke-opacity=".20"/>
 <g font-family="ui-monospace,Consolas,monospace">
   <text x="88" y="94" fill="#6F647A" font-size="11" letter-spacing="1.2">12M COMMITS</text>
-  <text x="88" y="139" fill="#C084FC" font-size="25" font-weight="700">16</text>
+  <text x="88" y="139" fill="#C084FC" font-size="25" font-weight="700">13</text>
 
   <text x="365" y="94" fill="#6F647A" font-size="11" letter-spacing="1.2">PUBLIC REPOS</text>
   <text x="365" y="139" fill="#E9E4F0" font-size="25" font-weight="700">1</text>
 
   <text x="648" y="94" fill="#6F647A" font-size="11" letter-spacing="1.2">12M CONTRIBUTIONS</text>
-  <text x="648" y="139" fill="#22D3EE" font-size="25" font-weight="700">24</text>
+  <text x="648" y="139" fill="#22D3EE" font-size="25" font-weight="700">20</text>
 
   <text x="955" y="94" fill="#6F647A" font-size="11" letter-spacing="1.2">TOP LANGUAGE</text>
   <text x="955" y="139" fill="#C084FC" font-size="25" font-weight="700">—</text>
