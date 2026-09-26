@@ -51,6 +51,9 @@
 
 **[ToToDo](https://github.com/YSimatov/ToToDo/tree/completed-project)**
 
+**[Scientific Calculator](https://github.com/YSimatov/scientific-calculator)**  
+Научный настольный калькулятор на Python и Tkinter: базовые операции, тригонометрия, логарифмы, факториал, константы π/e и режимы DEG/RAD.
+
 ### Пока не опубликованы
 
 > **Платформа для совместной работы с базой знаний**  
