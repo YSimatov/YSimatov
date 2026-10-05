@@ -66,12 +66,6 @@
 
 `Дальше больше...`
 
-## // 3D-КАРТА АКТИВНОСТИ
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D GitHub contribution city" width="95%" />
-</p>
-
 ## // СВЯЗЬ
 
 <p align="center">
