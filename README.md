@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="YSimatov — Software Developer" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-09060F?style=for-the-badge&logo=python&logoColor=C084FC" alt="Python" />
   <img src="https://img.shields.io/badge/Go-09060F?style=for-the-badge&logo=go&logoColor=22D3EE" alt="Go" />
   <img src="https://img.shields.io/badge/Angular-09060F?style=for-the-badge&logo=angular&logoColor=C084FC" alt="Angular" />
