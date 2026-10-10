@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/header.svg" alt="YSimatov — Software Developer" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-09060F?style=for-the-badge&logo=python&logoColor=C084FC" alt="Python" />
   <img src="https://img.shields.io/badge/Go-09060F?style=for-the-badge&logo=go&logoColor=22D3EE" alt="Go" />
   <img src="https://img.shields.io/badge/Angular-09060F?style=for-the-badge&logo=angular&logoColor=C084FC" alt="Angular" />
@@ -65,6 +69,12 @@
 > Python-сервис для асинхронного сбора и анализа market/order-book данных с контролем concurrency и тестовым покрытием.
 
 `Дальше больше...`
+
+## // 3D-КАРТА АКТИВНОСТИ
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D GitHub contribution city" width="95%" />
+</p>
 
 ## // СВЯЗЬ
 
